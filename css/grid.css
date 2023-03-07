@@ -23,8 +23,9 @@ body {
 
 .grid {
     width: 100%;
-    max-width: 1200px;
+    max-width: 1400px;
     margin: 0 auto;
+    padding: 0px 30px;
 }
 
 .grid-no-overflow-hiden {
